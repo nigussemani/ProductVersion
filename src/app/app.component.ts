@@ -10,12 +10,12 @@ import {environment} from "../environments/environment";
 })
 export class AppComponent implements OnInit {
   title = 'ProductVersion';
-
+  version = '1.0.0.0';
   constructor(private buildService: TeamCityBuildNumberServiceTsService) {
   }
 
   ngOnInit() {
-    // this.buildService.loadXML();
+    this.getVersion();
   }
   getVersion(): any {
     var storedVeriosn = localStorage.getItem('version');
@@ -24,6 +24,7 @@ export class AppComponent implements OnInit {
 
     let buildNumber: number;
     let version = `${environment.major}.${environment.minor}.${environment.patch}.${environment.buildNumber}`;
+    this.version = version;
     console.log("version="+version);
     localStorage.setItem("version", version)
     return version;

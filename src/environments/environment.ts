@@ -7,7 +7,7 @@ export const environment = {
   major: 1,
   minor: 1,
   patch: 1,
-  buildNumber: '%build.counter%'
+  buildNumber: 'build_counter_variable'
 };
 
 /*
