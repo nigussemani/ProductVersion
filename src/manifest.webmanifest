@@ -55,5 +55,10 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
-  ]
+  ],
+  "version": {
+    "Major" : 1,
+    "Minor" :1,
+    "Path" :1
+ }
 }

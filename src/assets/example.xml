@@ -1,0 +1,305 @@
+<builds>
+  <build id="78653" buildTypeId="I3_API_DeployQaAwardCenter_Hchiqaweb1" number="72" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:78653"
+         webUrl="http://hprdbld1/viewLog.html?buildId=78653amp;buildTypeId=I3_API_DeployQaAwardCenter_Hchiqaweb1"/>
+  <build id="78611" buildTypeId="I3_API_DeployQa_Deploy" number="608" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:78611"
+         webUrl="http://hprdbld1/viewLog.html?buildId=78611buildTypeId=I3_API_DeployQa_Deploy"/>
+  <build id="78610" buildTypeId="I3_API_DeployQa_Hchiqaweb2" number="581" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:78610"
+         webUrl="http://hprdbld1/viewLog.html?buildId=78610buildTypeId=I3_API_DeployQa_Hchiqaweb2"/>
+  <build id="78609" buildTypeId="I3_API_DeployQa_Hchiqaweb1" number="630" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:78609"
+         webUrl="http://hprdbld1/viewLog.html?buildId=78609buildTypeId=I3_API_DeployQa_Hchiqaweb1"/>
+  <build id="78608" buildTypeId="I3_API_Build" number="6693" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:78608"
+         webUrl="http://hprdbld1/viewLog.html?buildId=78608buildTypeId=I3_API_Build"/>
+  <build id="78232" buildTypeId="Fis_Tools_BuildUAT" number="757" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:78232"
+         webUrl="http://hprdbld1/viewLog.html?buildId=78232buildTypeId=Fis_Tools_BuildUAT"/>
+  <build id="78047" buildTypeId="Fis_Tools_DeployI3uat" number="142" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:78047"
+         webUrl="http://hprdbld1/viewLog.html?buildId=78047buildTypeId=Fis_Tools_DeployI3uat"/>
+  <build id="77676" buildTypeId="I3_API_Build" number="6617" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:77676"
+         webUrl="http://hprdbld1/viewLog.html?buildId=77676buildTypeId=I3_API_Build"/>
+  <build id="76216" buildTypeId="I3_Website_DeployProduction_Wafd_Schiwebfis1" number="4" status="SUCCESS"
+         state="finished" branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:76216"
+         webUrl="http://hprdbld1/viewLog.html?buildId=76216buildTypeId=I3_Website_DeployProduction_Wafd_Schiwebfis1"/>
+  <build id="75638" buildTypeId="Innerge_ClassicInnergeIntegration_BuildRelease" number="158" status="SUCCESS"
+         state="finished" href="/guestAuth/app/rest/builds/id:75638"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75638buildTypeId=Innerge_ClassicInnergeIntegration_BuildRelease"/>
+  <build id="75622" buildTypeId="Innerge_ClassicInnergeIntegration_BuildRelease" number="157" status="SUCCESS"
+         state="finished" href="/guestAuth/app/rest/builds/id:75622"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75622buildTypeId=Innerge_ClassicInnergeIntegration_BuildRelease"/>
+  <build id="75486" buildTypeId="Fis_FisSso_DeployI3Production" number="6" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75486"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75486buildTypeId=Fis_FisSso_DeployI3Production"/>
+  <build id="75320" buildTypeId="Fis_Tools_DeployI3uat" number="140" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:75320"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75320buildTypeId=Fis_Tools_DeployI3uat"/>
+  <build id="75119" buildTypeId="I3_Website_DeployUat_Deploy" number="253" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:75119"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75119buildTypeId=I3_Website_DeployUat_Deploy"/>
+  <build id="75118" buildTypeId="I3_Website_DeployUat_QuickPerks_Deploy" number="35" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:75118"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75118buildTypeId=I3_Website_DeployUat_QuickPerks_Deploy"/>
+  <build id="75117" buildTypeId="I3_Website_DeployUat_QuickPerks_Huatweb2" number="35" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75117"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75117buildTypeId=I3_Website_DeployUat_QuickPerks_Huatweb2"/>
+  <build id="75115" buildTypeId="I3_Website_DeployUat_CbRewards_Deploy" number="34" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:75115"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75115buildTypeId=I3_Website_DeployUat_CbRewards_Deploy"/>
+  <build id="75116" buildTypeId="I3_Website_DeployUat_QuickPerks_Huatweb1" number="35" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75116"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75116buildTypeId=I3_Website_DeployUat_QuickPerks_Huatweb1"/>
+  <build id="75114" buildTypeId="I3_Website_DeployUat_CbRewards_Huatweb2" number="34" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75114"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75114buildTypeId=I3_Website_DeployUat_CbRewards_Huatweb2"/>
+  <build id="75112" buildTypeId="I3_Website_DeployUat_Demo_Deploy" number="181" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:75112"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75112buildTypeId=I3_Website_DeployUat_Demo_Deploy"/>
+  <build id="75113" buildTypeId="I3_Website_DeployUat_CbRewards_Huatweb1" number="34" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75113"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75113buildTypeId=I3_Website_DeployUat_CbRewards_Huatweb1"/>
+  <build id="75111" buildTypeId="I3_Website_DeployUat_Demo_Huatweb2" number="171" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75111"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75111buildTypeId=I3_Website_DeployUat_Demo_Huatweb2"/>
+  <build id="75110" buildTypeId="I3_Website_DeployUat_Demo_Huatweb1" number="171" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75110"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75110buildTypeId=I3_Website_DeployUat_Demo_Huatweb1"/>
+  <build id="75106" buildTypeId="I3_Website_DeployUat_Tcm_Deploy" number="238" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:75106"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75106buildTypeId=I3_Website_DeployUat_Tcm_Deploy"/>
+  <build id="75105" buildTypeId="I3_Website_DeployUat_Tcm_Huatweb2" number="238" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75105"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75105buildTypeId=I3_Website_DeployUat_Tcm_Huatweb2"/>
+  <build id="75103" buildTypeId="I3_Website_DeployUat_FirstExchange_Deploy" number="245" status="SUCCESS"
+         state="finished" href="/guestAuth/app/rest/builds/id:75103"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75103buildTypeId=I3_Website_DeployUat_FirstExchange_Deploy"/>
+  <build id="75104" buildTypeId="I3_Website_DeployUat_Tcm_Huatweb1" number="238" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75104"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75104buildTypeId=I3_Website_DeployUat_Tcm_Huatweb1"/>
+  <build id="75102" buildTypeId="I3_Website_DeployUat_FirstExchange_Huatweb2" number="246" status="SUCCESS"
+         state="finished" branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75102"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75102buildTypeId=I3_Website_DeployUat_FirstExchange_Huatweb2"/>
+  <build id="75101" buildTypeId="I3_Website_DeployUat_FirstExchange_Huatweb1" number="246" status="SUCCESS"
+         state="finished" branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75101"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75101buildTypeId=I3_Website_DeployUat_FirstExchange_Huatweb1"/>
+  <build id="75100" buildTypeId="I3_Website_DeployUat_ScoreCard_Deploy" number="316" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:75100"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75100buildTypeId=I3_Website_DeployUat_ScoreCard_Deploy"/>
+  <build id="75099" buildTypeId="I3_Website_DeployUat_ScoreCard_Huatweb2" number="318" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75099"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75099buildTypeId=I3_Website_DeployUat_ScoreCard_Huatweb2"/>
+  <build id="75097" buildTypeId="I3_Website_DeployUat_Landmark_Deploy" number="243" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:75097"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75097buildTypeId=I3_Website_DeployUat_Landmark_Deploy"/>
+  <build id="75098" buildTypeId="I3_Website_DeployUat_ScoreCard_Huatweb1" number="325" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75098"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75098buildTypeId=I3_Website_DeployUat_ScoreCard_Huatweb1"/>
+  <build id="75096" buildTypeId="I3_Website_DeployUat_Landmark_Huatweb2" number="244" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75096"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75096buildTypeId=I3_Website_DeployUat_Landmark_Huatweb2"/>
+  <build id="75095" buildTypeId="I3_Website_DeployUat_Landmark_Huatweb1" number="244" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75095"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75095buildTypeId=I3_Website_DeployUat_Landmark_Huatweb1"/>
+  <build id="75094" buildTypeId="I3_Website_DeployUat_FirstMerchants_Deploy" number="243" status="SUCCESS"
+         state="finished" href="/guestAuth/app/rest/builds/id:75094"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75094buildTypeId=I3_Website_DeployUat_FirstMerchants_Deploy"/>
+  <build id="75093" buildTypeId="I3_Website_DeployUat_FirstMerchants_Huatweb2" number="244" status="SUCCESS"
+         state="finished" branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75093"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75093buildTypeId=I3_Website_DeployUat_FirstMerchants_Huatweb2"/>
+  <build id="75091" buildTypeId="I3_Website_DeployUat_Cnb_Deploy" number="249" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:75091"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75091buildTypeId=I3_Website_DeployUat_Cnb_Deploy"/>
+  <build id="75092" buildTypeId="I3_Website_DeployUat_FirstMerchants_Huatweb1" number="245" status="SUCCESS"
+         state="finished" branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75092"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75092buildTypeId=I3_Website_DeployUat_FirstMerchants_Huatweb1"/>
+  <build id="75090" buildTypeId="I3_Website_DeployUat_Cnb_Huatweb2" number="250" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75090"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75090buildTypeId=I3_Website_DeployUat_Cnb_Huatweb2"/>
+  <build id="75089" buildTypeId="I3_Website_DeployUat_Cnb_Huatweb1" number="249" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75089"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75089buildTypeId=I3_Website_DeployUat_Cnb_Huatweb1"/>
+  <build id="75088" buildTypeId="I3_Website_DeployUat_BankOfTheWest_Deploy" number="264" status="SUCCESS"
+         state="finished" href="/guestAuth/app/rest/builds/id:75088"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75088buildTypeId=I3_Website_DeployUat_BankOfTheWest_Deploy"/>
+  <build id="75087" buildTypeId="I3_Website_DeployUat_BankOfTheWest_Huatweb2" number="263" status="SUCCESS"
+         state="finished" branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75087"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75087buildTypeId=I3_Website_DeployUat_BankOfTheWest_Huatweb2"/>
+  <build id="75086" buildTypeId="I3_Website_DeployUat_BankOfTheWest_Huatweb1" number="269" status="SUCCESS"
+         state="finished" branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75086"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75086buildTypeId=I3_Website_DeployUat_BankOfTheWest_Huatweb1"/>
+  <build id="75084" buildTypeId="I3_Website_DeployUat_BeneficialBank_Deploy" number="217" status="SUCCESS"
+         state="finished" href="/guestAuth/app/rest/builds/id:75084"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75084buildTypeId=I3_Website_DeployUat_BeneficialBank_Deploy"/>
+  <build id="75083" buildTypeId="I3_Website_DeployUat_BeneficialBank_Huatweb2" number="219" status="SUCCESS"
+         state="finished" branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75083"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75083buildTypeId=I3_Website_DeployUat_BeneficialBank_Huatweb2"/>
+  <build id="75082" buildTypeId="I3_Website_DeployUat_BeneficialBank_Huatweb1" number="219" status="SUCCESS"
+         state="finished" branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:75082"
+         webUrl="http://hprdbld1/viewLog.html?buildId=75082buildTypeId=I3_Website_DeployUat_BeneficialBank_Huatweb1"/>
+  <build id="74975" buildTypeId="I3_Website_Build" number="16173" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:74975"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74975buildTypeId=I3_Website_Build"/>
+  <build id="74960" buildTypeId="I3_API_Build" number="6489" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:74960"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74960buildTypeId=I3_API_Build"/>
+  <build id="74881" buildTypeId="Innerge_ClassicInnergeIntegration_BuildRelease" number="155" status="SUCCESS"
+         state="finished" href="/guestAuth/app/rest/builds/id:74881"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74881buildTypeId=Innerge_ClassicInnergeIntegration_BuildRelease"/>
+  <build id="74719" buildTypeId="Fis_Tools_DeployI3Production" number="37" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:74719"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74719buildTypeId=Fis_Tools_DeployI3Production"/>
+  <build id="74718" buildTypeId="Fis_Tools_BuildRelease" number="42" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:74718"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74718buildTypeId=Fis_Tools_BuildRelease"/>
+  <build id="74717" buildTypeId="Fis_Tools_DeployI3qa" number="254" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:74717"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74717buildTypeId=Fis_Tools_DeployI3qa"/>
+  <build id="74715" buildTypeId="Fis_Tools_DeployI3uat" number="139" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:74715"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74715buildTypeId=Fis_Tools_DeployI3uat"/>
+  <build id="74713" buildTypeId="Fis_Tools_BuildUAT" number="748" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:74713"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74713buildTypeId=Fis_Tools_BuildUAT"/>
+  <build id="74297" buildTypeId="I3_Website_DeployQa_ScoreCard_Deploy" number="389" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:74297"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74297buildTypeId=I3_Website_DeployQa_ScoreCard_Deploy"/>
+  <build id="74296" buildTypeId="I3_Website_DeployQa_ScoreCard_Hchiqaweb2" number="385" status="SUCCESS"
+         state="finished" branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:74296"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74296buildTypeId=I3_Website_DeployQa_ScoreCard_Hchiqaweb2"/>
+  <build id="74295" buildTypeId="I3_Website_DeployQa_ScoreCard_Hchiqaweb1" number="388" status="SUCCESS"
+         state="finished" branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:74295"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74295buildTypeId=I3_Website_DeployQa_ScoreCard_Hchiqaweb1"/>
+  <build id="74171" buildTypeId="I3_API_DeployQa_Deploy" number="504" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:74171"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74171buildTypeId=I3_API_DeployQa_Deploy"/>
+  <build id="74170" buildTypeId="I3_API_DeployQa_Hchiqaweb2" number="488" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:74170"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74170buildTypeId=I3_API_DeployQa_Hchiqaweb2"/>
+  <build id="74169" buildTypeId="I3_API_DeployQa_Hchiqaweb1" number="528" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:74169"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74169buildTypeId=I3_API_DeployQa_Hchiqaweb1"/>
+  <build id="74163" buildTypeId="Fis_FisSso_BuildRelease" number="50" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:74163"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74163buildTypeId=Fis_FisSso_BuildRelease"/>
+  <build id="74124" buildTypeId="I3_Website_DeployProduction_MyNewLoyaltyProgram_Deploy" number="1" status="SUCCESS"
+         state="finished" href="/guestAuth/app/rest/builds/id:74124"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74124buildTypeId=I3_Website_DeployProduction_MyNewLoyaltyProgram_Deploy"/>
+  <build id="74123" buildTypeId="I3_Website_DeployProduction_MyNewLoyaltyProgram_Schiwebfis3" number="1"
+         status="SUCCESS" state="finished" branchName="master" defaultBranch="true"
+         href="/guestAuth/app/rest/builds/id:74123"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74123buildTypeId=I3_Website_DeployProduction_MyNewLoyaltyProgram_Schiwebfis3"/>
+  <build id="74122" buildTypeId="I3_Website_DeployProduction_MyNewLoyaltyProgram_Schiwebfis2" number="1"
+         status="SUCCESS" state="finished" branchName="master" defaultBranch="true"
+         href="/guestAuth/app/rest/builds/id:74122"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74122buildTypeId=I3_Website_DeployProduction_MyNewLoyaltyProgram_Schiwebfis2"/>
+  <build id="74121" buildTypeId="I3_Website_DeployProduction_MyNewLoyaltyProgram_Schiwebfis1" number="1"
+         status="SUCCESS" state="finished" branchName="master" defaultBranch="true"
+         href="/guestAuth/app/rest/builds/id:74121"
+         webUrl="http://hprdbld1/viewLog.html?buildId=74121buildTypeId=I3_Website_DeployProduction_MyNewLoyaltyProgram_Schiwebfis1"/>
+  <build id="73878" buildTypeId="I3_API_DeployDev_Deploy" number="171" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:73878"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73878buildTypeId=I3_API_DeployDev_Deploy"/>
+  <build id="73877" buildTypeId="I3_API_DeployDev_Hchiqaweb2" number="163" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:73877"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73877buildTypeId=I3_API_DeployDev_Hchiqaweb2"/>
+  <build id="73876" buildTypeId="I3_API_DeployDev_Hchiqaweb1" number="171" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:73876"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73876buildTypeId=I3_API_DeployDev_Hchiqaweb1"/>
+  <build id="73757" buildTypeId="Forge_Api_DeployUat_Deploy" number="26" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:73757"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73757buildTypeId=Forge_Api_DeployUat_Deploy"/>
+  <build id="73756" buildTypeId="Forge_Api_DeployUat_Huatweb2" number="26" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:73756"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73756buildTypeId=Forge_Api_DeployUat_Huatweb2"/>
+  <build id="73755" buildTypeId="Forge_Api_DeployUat_Huatweb1" number="31" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:73755"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73755buildTypeId=Forge_Api_DeployUat_Huatweb1"/>
+  <build id="73752" buildTypeId="Forge_API_Build" number="415" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:73752"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73752buildTypeId=Forge_API_Build"/>
+  <build id="73698" buildTypeId="Fis_Tools_BuildUAT" number="746" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:73698"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73698buildTypeId=Fis_Tools_BuildUAT"/>
+  <build id="73307" buildTypeId="Fis_FisSso_DeployI3uat" number="13" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:73307"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73307buildTypeId=Fis_FisSso_DeployI3uat"/>
+  <build id="73306" buildTypeId="Fis_FisSso_BuildUAT" number="52" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:73306"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73306buildTypeId=Fis_FisSso_BuildUAT"/>
+  <build id="73300" buildTypeId="Fis_FisSso_BuildRelease" number="49" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:73300"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73300buildTypeId=Fis_FisSso_BuildRelease"/>
+  <build id="73297" buildTypeId="Fis_FisSso_BuildUAT" number="49" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:73297"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73297buildTypeId=Fis_FisSso_BuildUAT"/>
+  <build id="73237" buildTypeId="I3_API_Build" number="6312" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:73237"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73237buildTypeId=I3_API_Build"/>
+  <build id="73236" buildTypeId="I3_Website_Build" number="15977" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:73236"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73236buildTypeId=I3_Website_Build"/>
+  <build id="73144" buildTypeId="Eps_BuildRelease" number="533" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:73144"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73144buildTypeId=Eps_BuildRelease"/>
+  <build id="73034" buildTypeId="I3_Website_DeployUat_ScoreCard_Deploy" number="310" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:73034"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73034buildTypeId=I3_Website_DeployUat_ScoreCard_Deploy"/>
+  <build id="73033" buildTypeId="I3_Website_DeployUat_ScoreCard_Huatweb2" number="313" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:73033"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73033buildTypeId=I3_Website_DeployUat_ScoreCard_Huatweb2"/>
+  <build id="73032" buildTypeId="I3_Website_DeployUat_ScoreCard_Huatweb1" number="320" status="SUCCESS" state="finished"
+         branchName="master" defaultBranch="true" href="/guestAuth/app/rest/builds/id:73032"
+         webUrl="http://hprdbld1/viewLog.html?buildId=73032buildTypeId=I3_Website_DeployUat_ScoreCard_Huatweb1"/>
+  <build id="72971" buildTypeId="Fis_FisSso_BuildUAT" number="45" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:72971"
+         webUrl="http://hprdbld1/viewLog.html?buildId=72971buildTypeId=Fis_FisSso_BuildUAT"/>
+  <build id="72686" buildTypeId="I3_API_DeployUat_Huatweb2" number="297" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:72686"
+         webUrl="http://hprdbld1/viewLog.html?buildId=72686buildTypeId=I3_API_DeployUat_Huatweb2"/>
+  <build id="72684" buildTypeId="I3_API_DeployUat_Huatweb1" number="303" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:72684"
+         webUrl="http://hprdbld1/viewLog.html?buildId=72684buildTypeId=I3_API_DeployUat_Huatweb1"/>
+  <build id="72486" buildTypeId="I3_API_Build" number="6254" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:72486"
+         webUrl="http://hprdbld1/viewLog.html?buildId=72486buildTypeId=I3_API_Build"/>
+  <build id="72497" buildTypeId="I3_Website_Build" number="15907" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:72497"
+         webUrl="http://hprdbld1/viewLog.html?buildId=72497buildTypeId=I3_Website_Build"/>
+  <build id="72438" buildTypeId="I3_API_Build" number="6246" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:72438"
+         webUrl="http://hprdbld1/viewLog.html?buildId=72438buildTypeId=I3_API_Build"/>
+  <build id="72082" buildTypeId="I3_API_Build" number="6206" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:72082"
+         webUrl="http://hprdbld1/viewLog.html?buildId=72082buildTypeId=I3_API_Build"/>
+  <build id="72073" buildTypeId="I3_API_Build" number="6205" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:72073"
+         webUrl="http://hprdbld1/viewLog.html?buildId=72073buildTypeId=I3_API_Build"/>
+  <build id="72013" buildTypeId="Forge_Website_Build" number="747" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:72013"
+         webUrl="http://hprdbld1/viewLog.html?buildId=72013buildTypeId=Forge_Website_Build"/>
+  <build id="71995" buildTypeId="Eps_BuildRelease" number="513" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" href="/guestAuth/app/rest/builds/id:71995"
+         webUrl="http://hprdbld1/viewLog.html?buildId=71995buildTypeId=Eps_BuildRelease"/>
+  <build id="71895" buildTypeId="Forge_Api_DeployProduction_Sweb2" number="8" status="SUCCESS" state="finished"
+         history="true" href="/guestAuth/app/rest/builds/id:71895"
+         webUrl="http://hprdbld1/viewLog.html?buildId=71895buildTypeId=Forge_Api_DeployProduction_Sweb2"/>
+  <build id="71891" buildTypeId="Forge_Api_DeployProduction_Sweb1" number="8" status="SUCCESS" state="finished"
+         history="true" href="/guestAuth/app/rest/builds/id:71891"
+         webUrl="http://hprdbld1/viewLog.html?buildId=71891buildTypeId=Forge_Api_DeployProduction_Sweb1"/>
+  <build id="71859" buildTypeId="Forge_Api_DeployProduction_Sweb1" number="7" status="SUCCESS" state="finished"
+         history="true" href="/guestAuth/app/rest/builds/id:71859"
+         webUrl="http://hprdbld1/viewLog.html?buildId=71859buildTypeId=Forge_Api_DeployProduction_Sweb1"/>
+  <build id="71863" buildTypeId="Forge_Api_DeployProduction_Sweb2" number="7" status="SUCCESS" state="finished"
+         history="true" href="/guestAuth/app/rest/builds/id:71863"
+         webUrl="http://hprdbld1/viewLog.html?buildId=71863buildTypeId=Forge_Api_DeployProduction_Sweb2"/>
+  <build id="71858" buildTypeId="Forge_API_Build" number="361" status="SUCCESS" state="finished" branchName="master"
+         defaultBranch="true" history="true" href="/guestAuth/app/rest/builds/id:71858"
+         webUrl="http://hprdbld1/viewLog.html?buildId=71858buildTypeId=Forge_API_Build"/>
+  <build id="71851" buildTypeId="Forge_Api_DeployProduction_Deploy" number="5" status="SUCCESS" state="finished"
+         href="/guestAuth/app/rest/builds/id:71851"
+         webUrl="http://hprdbld1/viewLog.html?buildId=71851buildTypeId=Forge_Api_DeployProduction_Deploy"/>
+</builds>

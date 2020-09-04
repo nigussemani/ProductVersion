@@ -3,7 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  major: 1,
+  minor: 1,
+  patch: 1,
+  buildNumber: '%build.counter%'
 };
 
 /*
